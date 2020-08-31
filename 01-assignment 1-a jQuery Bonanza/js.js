@@ -20,7 +20,6 @@ $('#btn_tog_f').click(function(){
 
 $('#btn_append').click(function(){
   $('#p_append').append('<span id="span1">append add to the end</span>');
-  $('#span1').css('color', 'green');
 });
 
 $('#btn_prepend').click(function(){
